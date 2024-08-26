@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368214995826",
+    "project_id": "yojan-firebase-73e0f",
+    "storage_bucket": "yojan-firebase-73e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368214995826:android:cdff328ab5bf87e92a63eb",
+        "android_client_info": {
+          "package_name": "com.example.yojan_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD69yDl05AHQkOVVDtY7KcUWWznqF2a1xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
