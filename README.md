@@ -132,5 +132,5 @@ exists.
 
 This is designed to create a form field with various customizable features. This widget is
 particularly useful for creating text input fields in forms, such as login and signup forms, where
-we may need different input types and functionalities like password visibility toggling. 
+we may need different input types and functionalities like password visibility toggling 
 
